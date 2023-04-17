@@ -55,4 +55,4 @@ Two additional visualizations we would like to produce with the current dataset:
 
 ## Tableau Link
 
-Please spend some time lookng over the presentation, especiall the Story tab "Bringing a Bikeshare to Des Moines", hosted on Tableau Public at this linke: [link to dashboard](https://public.tableau.com/views/Mod15_Tableau_Challenge/BringingaBikesharetoDesMoines?:language=en-US&:display_count=n&:origin=viz_share_link)
+Please spend some time lookng over the presentation, especiall the Story tab "Bringing a Bikeshare to Des Moines", hosted on Tableau Public at this link: [Bringing a Bikeshare to Des Moines](https://public.tableau.com/views/Mod15_Tableau_Challenge/BringingaBikesharetoDesMoines?:language=en-US&:display_count=n&:origin=viz_share_link)
