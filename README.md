@@ -7,16 +7,16 @@ This project is an effort to convince investors that a bikeshare program, like t
 
 ## Results
 
-![User Trips by Gender by Weekday](resources\user_trips_by_gender_by_weekday.png)
+![User Trips by Gender by Weekday](_challenge\resources\user_trips_by_gender_by_weekday.png)
 
-![Trips by Weekday by Hour](resources\trips_by_weekday_by_hour.png)
+![Trips by Weekday by Hour](_challenge\resources\trips_by_weekday_by_hour.png)
 
-![Trips by Gender by Weekday by Hour](resources\trips_by_gender_weekday_by_hour.png)
+![Trips by Gender by Weekday by Hour](_challenge\resources\trips_by_gender_weekday_by_hour.png)
 
-![Checkout Times for Users](resources\checkout_times_users.png)
+![Checkout Times for Users](_challenge\resources\checkout_times_users.png)
 
-![Checkout Times by Gender](resources\checkout_times_by_gender.png)
+![Checkout Times by Gender](_challenge\resources\checkout_times_by_gender.png)
 
-![Types of Riders](resources\rider_types.png)
+![Types of Riders](_challenge\resources\rider_types.png)
 
-![Bike Utilization](resources\bike_utilization.png)
+![Bike Utilization](_challenge\resources\bike_utilization.png)
